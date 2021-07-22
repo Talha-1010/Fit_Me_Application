@@ -81,7 +81,7 @@ span.psw {
 
 <form action="/welcome.php" method="post">
   <div class="imgcontainer">
-    <img src="img_avatar2.png" alt="Avatar" class="avatar">
+    <img src="img_avatar.png" alt="Avatar" class="avatar">
   </div>
 
   <div class="container">
